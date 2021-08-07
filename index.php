@@ -42,7 +42,6 @@
  
               
                 <div class="col-md-4"> </div>
-              &nbsp; &nbsp; &nbsp; <br /> 
               <div class="col-md-12">
               <p align="center">
               
